@@ -1,11 +1,11 @@
 # Temperature
 Here's the code
 
-  #include <iostream>
+    #include <iostream>
 
-  using namespace std;
+    using namespace std;
   
-  int main () {
+    int main () {
   	
   	double f, c;
   
